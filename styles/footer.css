@@ -1,0 +1,260 @@
+#container{
+/* Rectangle 71 */
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 68.4%;
+
+/* primary */
+background: #2D4059;
+}
+
+
+#article{
+/* Articles à petit prix */
+position: absolute;
+left: 20.54%;
+right: 67.44%;
+top: 8.25%;
+bottom: 86.79%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+/* or 111% */
+letter-spacing: -0.015em;
+
+/* third */
+color: #E5E5E5;
+}
+
+#majorité{
+    /*La majorité des produits sont à 1 euro */
+    position: absolute;
+    left: 20.54%;
+    right: 68.09%;
+    top: 15.09%;
+    bottom: 76.65%;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 17px;
+    /* or 131% */
+    letter-spacing: -0.015em;
+    
+    /* third */
+    color: #E5E5E5;
+}
+
+#achats{
+/* Achats sans soucis */
+position: absolute;
+left: 37.14%;
+right: 50.6%;
+top: 8.25%;
+bottom: 86.79%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+/* or 111% */
+letter-spacing: -0.015em;
+
+/* third */
+color: #E5E5E5;
+}
+
+#chaque{
+/* Chaque commande est fournis mains à mains */
+position: absolute;
+left: 37.14%;
+right: 51.33%;
+top: 15.09%;
+bottom: 76.65%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 17px;
+/* or 131% */
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+}
+
+#paiement{
+/* Paiement sécurisé */
+position: absolute;
+left: 53.93%;
+right: 33.75%;
+top: 8.25%;
+bottom: 86.79%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+/* or 111% */
+letter-spacing: -0.015em;
+
+/* third */
+color: #E5E5E5;
+}
+
+#payez{
+    /* Payez sans vous souciez lors du retrait */
+position: absolute;
+left: 53.93%;
+right: 34.22%;
+top: 15.09%;
+bottom: 76.65%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 17px;
+/* or 131% */
+letter-spacing: -0.015em;
+
+/* third */
+color: #E5E5E5;
+}
+
+#livraison{
+/* Livraison Valenciennoise */
+position: absolute;
+left: 70.77%;
+right: 15.06%;
+top: 8.25%;
+bottom: 86.79%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+/* or 111% */
+letter-spacing: -0.015em;
+
+/* third */
+color: #E5E5E5;
+}
+
+#voulez{
+    /* Ce que vous voulez, préparé pour les valenciennois et les alentours */
+position: absolute;
+left: 70.77%;
+right: 15.71%;
+top: 15.09%;
+bottom: 71.46%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 17px;
+/* or 131% */
+letter-spacing: -0.015em;
+
+/* third */
+color: #E5E5E5;
+}
+
+#footer menu{
+    /* Rectangle 45 */
+position: absolute;
+left: 0%;
+right: 0%;
+top: 31.6%;
+bottom: 0%;
+
+/* third */
+background: #E5E5E5;
+}
+
+#menu1{
+/* Accueil Catalogue Questions fréquentes */
+
+position: absolute;
+left: 16.67%;
+right: 67.44%;
+top: 46.93%;
+bottom: 23.82%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 43px;
+/* or 239% */
+letter-spacing: -0.015em;
+
+/* primary */
+color: #2D4059;
+}
+
+#menu2{
+/* Première visite Livraison retrait Contact */
+
+position: absolute;
+left: 67.26%;
+right: 16.85%;
+top: 49.06%;
+bottom: 21.7%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 43px;
+/* or 239% */
+text-align: right;
+letter-spacing: -0.015em;
+
+/* primary */
+color: #2D4059;
+}
+
+#footer{
+    /* Rectangle 45 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 90.33%;
+bottom: 0%;
+
+/* primary */
+background: #2D4059;
+
+/* Mentions légales | Conditions générales d’utilisation et de ventes */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 90.33%;
+bottom: 0%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 43px;
+/* or 239% */
+text-align: center;
+letter-spacing: -0.015em;
+
+/* third */
+color: #E5E5E5;
+}
+
