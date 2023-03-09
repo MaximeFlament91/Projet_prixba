@@ -1,0 +1,49 @@
+body{
+    background-color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    }
+
+div .faq{
+    width: 75rem;
+}
+
+h1{
+    color: #ea5455;
+    text-align: center;
+    }
+
+details{
+    font-size: 1.5rem;
+    color: #2d4059;
+    margin-left: 15rem;
+    margin-right: 15rem;
+    border-radius: 1rem 1rem 0rem 0rem;
+    }
+
+summary {
+    background-color: #e5e5e5;
+    padding: .5em 2.5rem;
+    display: flex;
+    box-sizing: border-box;
+    border: solid #2d4059;
+    }
+    
+details:hover{
+    color: #ea5455;
+}
+
+details[open] summary{
+    color: #ea5455;
+}
+
+div .anwser{
+    color: #2d4059;
+    font-size: 0.75em;
+}
+
+details[open] div{
+    padding: .5em 2.5em;
+    background-color: #ececec;
+    border: solid #454e58;
+
+}
