@@ -45,7 +45,24 @@ li{
 
 .barre-menu div{
     padding-top: 40px;
-    padding-left: 150px ;
+    padding-left: 120px ;
     display:inline-block
 
+}
+
+#categories-select, #submit {
+    text-align: center;
+    border-radius: 10px;
+    height: 35px;
+    width:150px;
+}
+
+#input{
+    border-radius: 10px;
+    height: 32px;
+    width:250px;
+}
+#submit{
+    color: azure;
+    background-color: rgb(255, 33, 33);
 }
