@@ -5,3 +5,36 @@
 
 
 
+/* Avoir le choix chez Prix Marché */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    color: #EA5455;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 200px;
+    margin-top: 50px;
+}
+
+.container img {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.container a {
+    display: block;
+    color: #EA5455;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 10px;
+
+}
