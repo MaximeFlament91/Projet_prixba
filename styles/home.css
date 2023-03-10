@@ -5,7 +5,17 @@ body{
 
 div .faq{
     width: 75rem;
+    margin: auto;
+
 }
+
+div .question{
+    
+    border: solid #2d4059;
+    border-radius: 1rem;
+}
+
+
 
 h1{
     color: #ea5455;
@@ -15,19 +25,23 @@ h1{
 details{
     font-size: 1.5rem;
     color: #2d4059;
-    margin-left: 15rem;
-    margin-right: 15rem;
-    border-radius: 1rem 1rem 0rem 0rem;
+    border-radius: 1rem;
     }
 
-summary {
+summary{
     background-color: #e5e5e5;
     padding: .5em 2.5rem;
     display: flex;
-    box-sizing: border-box;
-    border: solid #2d4059;
-    }
+}
     
+.first {
+    border-radius: 1rem 1rem 0 0;
+}
+
+.last {
+    border-radius: 0 0 1rem 1rem;
+}
+
 details:hover{
     color: #ea5455;
 }
@@ -41,9 +55,31 @@ div .anwser{
     font-size: 0.75em;
 }
 
+div .anwser .last{
+    border-radius: 0 0 1rem 1rem;
+}
+
 details[open] div{
     padding: .5em 2.5em;
     background-color: #ececec;
-    border: solid #454e58;
+    border-top: solid #454e58;
+    border-bottom: solid #454e58;
+}
 
+/* Acceil déroulant */
+
+.slider {
+    width: 700px;
+    height: 300px;
+    display: flex;
+    overflow-y: auto;
+    margin: auto;
+}
+
+.slide {
+    background: #ea5455;
+    width: 300px;
+    flex-shrink: 0;
+    border: 1px solid #2d4059;
+    margin-left: 5cm;
 }
